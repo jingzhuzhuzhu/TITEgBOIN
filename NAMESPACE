@@ -1,0 +1,6 @@
+importFrom("stats", "pbeta", "qbeta", "rexp", "rmultinom",
+           "runif", "var")
+
+export(get_oc_TITE_QuasiBOIN)
+export(next_TITE_QuasiBOIN)
+export(select_mtd_TITE_QuasiBOIN)
